@@ -7,10 +7,12 @@ require (
 	github.com/fsnotify/fsnotify v1.5.4
 	github.com/icza/bitio v1.1.0
 	github.com/pelletier/go-toml v1.9.5
-	github.com/PTKDrake/gophertunnel v1.24.11
+	github.com/sandertv/gophertunnel v1.24.11
 	github.com/sirupsen/logrus v1.9.0
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 )
+
+replace github.com/sandertv/gophertunnel => github.com/PTKDrake/gophertunnel
 
 require (
 	github.com/go-gl/mathgl v1.0.0 // indirect
