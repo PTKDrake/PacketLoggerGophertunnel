@@ -12,7 +12,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5
 )
 
-replace github.com/sandertv/gophertunnel => github.com/PTKDrake/gophertunnel
+replace github.com/sandertv/gophertunnel => ./gophertunnel
 
 require (
 	github.com/go-gl/mathgl v1.0.0 // indirect
