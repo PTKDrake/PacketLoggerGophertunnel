@@ -1,5 +1,5 @@
 # PacketLoggerGophertunnel
-For Jibix.
+For Jibix
 
 <details>
   <summary>Click To See Preview</summary>
