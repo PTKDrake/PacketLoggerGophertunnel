@@ -2,7 +2,7 @@ module github.com/endermanbugzjfc/packetloggergophertunnel
 
 go 1.18
 
-replace github.com/sandertv/gophertunnel => /gophertunnel
+replace github.com/sandertv/gophertunnel => ../gophertunnel
 
 require (
 	github.com/df-mc/atomic v1.10.0
